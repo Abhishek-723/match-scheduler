@@ -1,0 +1,30 @@
+.match__details h1{
+    text-align: center;
+}
+.scheduler, .location{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    min-width: 300px;
+    margin: 60px auto;
+    flex-wrap: wrap;
+}
+.match__details .tournament__name{
+    width: 50%;
+    display: block;
+    margin: auto;
+}
+.match__details .tournament__name>div{
+    width: 100%;
+    min-width: 300px;
+}
+.match__details .comments{
+    width: 50%;
+    display: block;
+    margin: 40px  auto;
+}
+.match__details .comments>div{
+    width: 100%;
+    min-width: 300px;
+}

@@ -1,0 +1,52 @@
+{
+    "India": [
+        {
+            "city": "Delhi"
+        },
+        {
+            "city": "Mumbai"
+        },
+        {
+            "city": "Kolkata"
+        },
+        {
+            "city": "Bangalore"
+        },
+        {
+            "city": "Gandhinagar"
+        }
+    ],
+    "United States": [
+        {
+            "city": "Los Angeles"
+        },
+        {
+            "city": "Chicago"
+        },
+        {
+            "city": "Manhattan"
+        }
+    ],
+    "UK": [
+        {
+            "city": "London"
+        },
+        {
+            "city": "Manchester"
+        },
+        {
+            "city": "Liverpool"
+        }
+    ],
+    "UAE": [
+        {
+            "city": "Dubai"
+        },
+        {
+            "city": "Abu Dhabi"
+        },
+        {
+            "city": "Masafi"
+        }
+    ]
+}

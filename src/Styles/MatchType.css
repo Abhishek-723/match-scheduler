@@ -1,0 +1,13 @@
+.match__type h1{
+    text-align: center;
+}
+.match__type .select{
+    width: 300px;
+    margin: 100px auto;
+}
+.match__type button{
+    width: 120px;
+    display: block;
+    margin: auto;
+    text-align: center;
+}

@@ -1,0 +1,20 @@
+.matches .header__bar{
+    width: 90%;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    justify-items: center;
+    margin: 40px auto 0 auto;
+    background-color: rgb(235, 233, 233);
+    font-weight: bold;
+}
+.matches .scheduled__matches{
+    width: 90%;
+    display: grid;
+    justify-items: center;
+    margin: auto;
+    grid-template-columns: repeat(8, 1fr);
+    height: 100px;
+    /* background-color: aqua; */
+    overflow-y: scroll;
+    text-align: center;
+}
